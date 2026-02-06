@@ -1,0 +1,11 @@
+# Altium Designer ignore rules
+History/
+Project\ Logs*/
+Project\ Outputs*/
+__Preview/
+*.PcbDoc.htm
+*.Constraint
+*.Txt
+*.LDP
+*.DRC
+*.Done
